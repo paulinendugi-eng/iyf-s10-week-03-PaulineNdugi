@@ -1,1 +1,8 @@
-
+daily-challenge-1/
+├── README.md
+└── src/
+    ├── index.html
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── app.js
