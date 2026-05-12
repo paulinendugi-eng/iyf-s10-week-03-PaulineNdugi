@@ -1,1 +1,5 @@
-
+feat: add login form validation
+fix: correct navbar alignment issue
+docs: update README installation steps
+style: format code with consistent spacing
+refactor: simplify user authentication logic
