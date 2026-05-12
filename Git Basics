@@ -1,1 +1,117 @@
+📁 Project Structure
 
+iyf-s10-week-01-yourusername/
+│
+├── index.html
+├── style.css
+└── README.md
+🟢 1. index.html
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <h2>My Portfolio</h2>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Projects</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <header>
+        <h1>Hello, I'm a Web Developer 👩‍💻</h1>
+        <p>I am learning HTML, CSS, and JavaScript.</p>
+    </header>
+
+    <!-- About Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>I am building my skills in frontend development and Git.</p>
+    </section>
+
+</body>
+</html>
+🎨 2. style.css
+CSS
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Navigation */
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+nav ul li {
+    cursor: pointer;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+}
+
+/* Section */
+section {
+    padding: 30px;
+    background-color: white;
+    margin: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+        padding: 0;
+    }
+}
+📄 3. README.md
+Markdown
+# My Portfolio Project
+
+This is a simple beginner portfolio project built using HTML and CSS.
+
+## Features
+- Responsive navigation bar
+- Basic portfolio layout
+- Clean and simple design
+- Beginner-friendly structure
+
+## What I Learned
+- HTML structure
+- CSS styling
+- Responsive design
+- Git commits workflow
+
+## Author
+Pauline Ndugi 
