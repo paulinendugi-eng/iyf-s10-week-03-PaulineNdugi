@@ -1,1 +1,71 @@
+# Pauline Ndugi - Week 03 Project
 
+This project is part of my Week 03 learning journey in web development. It focuses on building a multi-page responsive website using HTML, CSS, and Git/GitHub workflows.  
+
+Through this project, I learned how to structure a website, apply modern CSS layouts (Flexbox and Grid), and manage version control using Git.
+
+---
+
+## Live Demo
+
+[View Live Site](https://paulinendugi-eng.github.io/iyf-s10-week-03-PaulineNdugi)
+
+---
+
+## Screenshot
+
+![Project Screenshot](./images/screenshot.png)
+
+---
+
+## Features
+
+- ✅ Responsive design for mobile, tablet, and desktop
+- ✅ Accessible structure (WCAG-friendly)
+- ✅ Multi-page layout (Home, About, Projects, Contact)
+- ✅ Functional contact form UI
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+- Git & GitHub
+
+---
+
+## Project Structure
+iyf-s10-week-03-PaulineNdugi/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │   └── styles.css └── images/
+
+---
+
+## What I Learned
+
+- How to structure a multi-page website using semantic HTML
+- How to style layouts using Flexbox and CSS Grid
+- How to use Git for version control (commit, push, branch)
+- How to publish a project on GitHub Pages
+
+---
+
+## Future Improvements
+
+- [ ] Add JavaScript interactivity
+- [ ] Implement dark mode toggle
+- [ ] Add project filtering functionality
+- [ ] Improve animations and transitions
+
+---
+
+## Contact
+
+- Email: your@email.com  
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
+- GitHub: [@yourusername](https://github.com/yourusername)
+
+---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
