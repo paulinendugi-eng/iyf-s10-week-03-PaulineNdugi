@@ -1,1 +1,4 @@
-
+HTML files count → find . -name "*.html" | wc -l
+Files with “contact” → grep -rl "contact" .
+CSS line count → wc -l src/css/styles.css
+Last 10 commands → history | tail -10
