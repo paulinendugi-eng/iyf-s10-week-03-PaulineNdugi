@@ -1,1 +1,8 @@
-
+my-project
+├── docs
+├── README.md
+├── src
+│   ├── css
+│   ├── images
+│   └── js
+└── tests
