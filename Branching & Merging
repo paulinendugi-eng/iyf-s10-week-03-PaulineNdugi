@@ -1,1 +1,8 @@
-
+daily-challenge-1/
+├── index.html
+├── about.html
+└── src/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── app.js
