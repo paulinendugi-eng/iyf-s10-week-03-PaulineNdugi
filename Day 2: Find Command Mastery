@@ -1,1 +1,12 @@
+~/projects/styles/main.css
+~/projects/components/button.css
+~/projects/pages/home.css
 
+~/projects/index.html
+~/projects/styles/main.css
+~/projects/app.js
+
+~/projects/styles/main.css: display: flex;
+~/projects/components/button.css: flex-direction: column;
+
+42
